@@ -7,3 +7,5 @@
 - **Compilar** --> gcc -Wall -o main main.c -lm
 
 - **Ejecutar** --> ./main
+
+- **Funciones explicadas** --> https://wuolah.com/apuntes/algoritmos/algoritmos-examen-practico-recopilacion-funciones-utiles-plantilla-examen-pdf-10415797?utm_source=wuolah&utm_medium=referral&utm_campaign=file-sharefile&referral=PernKNG7
