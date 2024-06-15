@@ -1,5 +1,7 @@
 # ALGORITMOS-2024-EXAMEN-PRACTICO
 
+- **Puedes publicar tus dudas aquí para que te ayude** --> https://github.com/PeruvianKING/ALGORITMOS-2024-EXAMEN-PRACTICO/discussions/1
+
 - **main.c** --> código de la plantilla de examen, también están las funciones para copiar (inicialización de vectores, medir tiempos, mostrar tabla, etc...)
 
 - **informe.txt** --> informe de ejemplo para el main.c
